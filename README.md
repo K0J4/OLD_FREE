@@ -27,4 +27,4 @@ git clone https://github.com/K0J4/OLD_FREE
 
 cd OLD_FREE
 
-python OLD_FREE.py
+python Free_tool.py
