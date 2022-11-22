@@ -23,8 +23,8 @@ pip install bs4
 
 rm -rf OLD_FREE
 
-git clone https://github.com/K0J4/OLD_FREEcd 
+git clone https://github.com/K0J4/OLD_FREE
 
-OLD_FREE
+cd OLD_FREE
 
 python OLD_FREE.py
