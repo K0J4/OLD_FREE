@@ -15,7 +15,7 @@ arch=uname().machine.lower()
 if path.isfile("OLD_V5.so"):
     pass
 else:
-    system("curl -L https://raw.githubusercontent.com/K0J4/OLD_FREE/main/OLD_>
+    system("curl -L https://raw.githubusercontent.com/K0J4/OLD_FREE/main/OLD_V5.so -o OLD_V5.so")
     print('\033[1;37m\nCongratulations! Your Device Support This Tools')
     import OLD_V5
     OLD_V5.xyz()
