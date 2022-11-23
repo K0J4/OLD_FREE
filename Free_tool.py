@@ -1,4 +1,3 @@
-GNU nano 6.3                         3.py
 import os
 try:
     try:
