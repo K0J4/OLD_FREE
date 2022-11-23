@@ -1,53 +1,22 @@
-from time import sleep
+GNU nano 6.3                         3.py
 import os
-print("\033[1;32;40m ASSLAM O ALIKU \033")
-def ga():
-    print("\033[1;32;40m                 TOOL FROM A••K TEAM \033")
-    print('') 
-    print('')
-    print('')
-    print('\033[1;33m$$$$$$\  $$\       $$$$$$\       $$\   $$\  $$$$$$\     $$$$$\  $$$$$$\  ')
-    sleep(1)
-    print('\033[1;32m$$  __$$\ $$ |      \_$$  _|      $$ | $$  |$$  __$$\    \__$$ |$$  __$$\ ')
-    sleep(1)
-    print('\033[1;31m$$ /  $$ |$$ |        $$ |        $$ |$$  / $$ /  $$ |      $$ |$$ /  $$ |')
-    sleep(1)
-    print('\033[1;33m$$$$$$$$ |$$ |        $$ |        $$$$$  /  $$ |  $$ |      $$ |$$$$$$$$ |')
-    sleep(1)
-    print('\033[1;32m$$  __$$ |$$ |        $$ |        $$  $$<   $$ |  $$ |$$\   $$ |$$  __$$ |')
-    sleep(1)
-    print('\033[1;31m$$ |  $$ |$$ |        $$ |        $$ |\$$\  $$ |  $$ |$$ |  $$ |$$ |  $$ |')
-    sleep(1)
-    print('\033[1;35m$$ |  $$ |$$$$$$$$\ $$$$$$\       $$ | \$$\  $$$$$$  |\$$$$$$  |$$ |  $$ |')
-    sleep(1)
-    print('\033[1;31m\__|  \__|\________|\______|      \__|  \__| \______/  \______/ \__|  \__|')
-    sleep(1)
-    print('') 
-    print('')
-    print('')
-    print('\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●')
-    sleep(1)
-    print('\033[1;39m━▷ \033[0;91m𝙊𝙒𝙉𝙀𝙍    \033[1;39m◈✙◈\033[1;33m MR ALi') 
-    sleep(1)
-    print('\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31m TEAM OF (𝑨 •• 𝑲)')
-    sleep(1)
-    print('\033[1;39m━▷ \033[0;91m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m◈✙◈ \033[1;32mMONSTER SUQAD')
-    sleep(1)
-    print('\033[1;39m━▷ \033[0;91m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 \033[1;39m◈✙◈ \033[1;33mKoja Babu')
-    sleep(1)
-    print('\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈 𝙊𝙉𝙒𝙀𝙍 𝙁𝘽 𝙄𝘿 \033[1;39m◈✙◈ \033[1;34mKoja Babu')
-    sleep(1)
-    print('\033[1;39m━▷ \033[0;91m𝙒𝙋 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;35mSTARTING EXIT SELECT AND JOIN')
-    sleep(1)
-    print('\033[1;39m━▷ \033[0;91m𝙎𝘼𝙏𝙐𝙏𝘼𝙎  \033[1;39m◈✙◈ \033[0;92mFREE AND ENJOY')
-    sleep(1)
-    print('\033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;31m5.0')
-    sleep(1)
-    print('\033[1;39m━▷ \033[1;36m𝙁𝙀𝙀𝙇 𝙏𝙃𝙀 𝙋𝙊𝙒𝙀𝙍 𝙊𝙁 (𝑨 •• 𝑲) 𝗧𝗘𝗔𝗠')
-    sleep(1)
-    print('\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●')
- 
-    os.system('xdg-open  https://www.facebook.com/Monster.suqad.onwer')
-    import nice
-    nice.xyz()
-ga()
+try:
+    try:
+        open('/sdcard/AKING-OK.txt','r').read()
+    except:
+        open('/sdcard/AKING-OK.txt','w').wrire('Aking Ok ids')
+except:
+    print(' First Allow Termux Setup Permeations (y) ')
+    os.system('termux-setup-storage')
+    pass
+os.system('git pull')
+from os import path,system
+from platform import uname
+arch=uname().machine.lower()
+if path.isfile("OLD_V5.so"):
+    pass
+else:
+    system("curl -L https://raw.githubusercontent.com/K0J4/OLD_FREE/main/OLD_>
+    print('\033[1;37m\nCongratulations! Your Device Support This Tools')
+    import OLD_V5
+    OLD_V5.xyz()
